@@ -1,0 +1,10 @@
+set SECRET_KEY= django-insecure-64(dzc#zauit6rl9@8vp49jh#08ojkzf(dfsit^+f_lu5mh_*+
+set DATABASE_NAME = CampaignDB
+set DATABASE_USER= postgres
+set DATABASE_PASS=ayomiposi
+set DATABASE_HOST = localhost
+set DEBUG=1
+set CLOUD_NAME = developerdavid
+set CLOUD_API_KEY= 895219279938966
+set CLOUD_SECRET_KEY = iUcMrwxUrOMkHNRqLdfAn30NPYM
+set ENGINE = django.db.backends.postgresql
