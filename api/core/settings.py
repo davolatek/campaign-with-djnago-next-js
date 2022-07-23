@@ -8,7 +8,7 @@ import cloudinary.api
 cloudinary.config(
     cloud_name = "developerdavid",
     api_key = "895219279938966",
-    secret_key = "iUcMrwxUrOMkHNRqLdfAn30NPYM"
+    api_secret = "iUcMrwxUrOMkHNRqLdfAn30NPYM"
 )
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
